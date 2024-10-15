@@ -1,1 +1,1 @@
-# rust-workspace
+# Rust workspace
